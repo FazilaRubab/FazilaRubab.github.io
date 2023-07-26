@@ -11,49 +11,42 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Software Engineering, Comsats University Islamabad, 2022
+* M.S. in Software Engineering, National University of Sciences and Technology, 2025 (expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Database
+  * MySQL 
+* Tool
+  * Tableau
+  * Excel
+  * MS Project
+  * Power BI Desktop
+  * Figma
+  * WordPress
+  * Go High Level
+  *  LATEX
+* Programming Language
+  * Java
+  * Python
+  * Html, CSS
+  * Javascript
+* Machine Learning
 
+Certifications
+======
+* Open Badge by Fun Mooc (Sickit-Learn)
+* Machine Learning Specialization By Stanford
+  * Supervised Machine Learning: Regression and Classification By Stanford
+  * Advanced Learning Algorithms By Stanford
+  * Unsupervised Learning, Recommenders, Reinforcement Learning By Stanford
+  
 Publications
 ======
   <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Prediction and interpretation of antibiotic-resistance genes occurrence at recreational beaches using machine learning models
+S Iftikhar, AM Karim, AM Karim, MA Karim, M Aslam, F Rubab, SK Malik, ...
+Journal of Environmental Management 328, 116969</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
