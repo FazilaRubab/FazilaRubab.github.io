@@ -34,6 +34,7 @@ Skills
   * Html, CSS
   * Javascript
 * Machine Learning
+  * scikit-learn, keras, Tensorflow, PyTorch
 
 Certifications
 ======
