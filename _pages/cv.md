@@ -45,7 +45,7 @@ Certifications
   
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>
 Prediction and interpretation of antibiotic-resistance genes occurrence at recreational beaches using machine learning models
 S Iftikhar, AM Karim, AM Karim, MA Karim, M Aslam, F Rubab, SK Malik, ...
 Journal of Environmental Management 328, 116969</ul>
