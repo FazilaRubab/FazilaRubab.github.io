@@ -17,14 +17,14 @@ Development of a graphical user interface for data-driven modeling with tabular 
 
 An easy to use application for non-programmers to train supervised machine learning models.
 Python/Html, CSS environment, Django Framework
-Code: [![GitHub](https://github.com/FazilaRubab/Ai4water_win)
+Code: [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/FazilaRubab/Ai4water_win)
 
 
 Railway Management System
 -----------
 
 This system shall automate the traditional manual systems of railway management. Java environment
-Code: [![GitHub](https://github.com/FazilaRubab/Railway-Management-System)
+Code: [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/FazilaRubab/Railway-Management-System)
 
 
 Book Store Management System
@@ -49,4 +49,7 @@ Aims to make personal website by creating inspiring Html, CSS and JavaScript env
 showcasing my education and other details.
 Html, CSS and JavaScript environment
 Code: [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/FazilaRubab/Who-Am-I-)
+
+
+
 *********************************
