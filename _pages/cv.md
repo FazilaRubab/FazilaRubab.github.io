@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download](Resume.pdf)
+
 Education
 ======
 * B.S. in Software Engineering, Comsats University Islamabad, 2022
