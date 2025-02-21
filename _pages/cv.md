@@ -51,9 +51,9 @@ Publications
   <ul>
 SeqMetrics: a unified library for performance metrics calculation in Python.
 Rubab, F., Iftikhar, S., & Abbas, A.
-Journal of Open Source Software, 6450.<ul>
+Journal of Open Source Software, 6450.</ul>
       
-  </ul>
+  <ul>
 Artificial neural networks for insights into adsorption capacity of industrial dyes using carbon-based materials
 S Iftikhar, N Zahra, F Rubab, RA Sumra, MB Khan, A Abbas, ZH Jaffari, ...
 Separation and Purification Technology, 124891</ul>
