@@ -49,6 +49,11 @@ Certifications
 Publications
 ======
   <ul>
+SeqMetrics: a unified library for performance metrics calculation in Python.
+Rubab, F., Iftikhar, S., & Abbas, A.
+Journal of Open Source Software, 6450.<ul>
+      
+  </ul>
 Artificial neural networks for insights into adsorption capacity of industrial dyes using carbon-based materials
 S Iftikhar, N Zahra, F Rubab, RA Sumra, MB Khan, A Abbas, ZH Jaffari, ...
 Separation and Purification Technology, 124891</ul>
@@ -57,4 +62,9 @@ Separation and Purification Technology, 124891</ul>
 Prediction and interpretation of antibiotic-resistance genes occurrence at recreational beaches using machine learning models
 S Iftikhar, AM Karim, AM Karim, MA Karim, M Aslam, F Rubab, SK Malik, ...
 Journal of Environmental Management 328, 116969</ul>
+
+  <ul>
+Adsorption of Cr (VI) ions onto fluorine-free niobium carbide (MXene) and machine learning prediction with high precision
+Ishtiaq, R., Zahra, N., Iftikhar, S., Rubab, F., Sultan, K., Abbas, A., Lam, S.M., Jaffari, Z.H. and Park, K.Y. 
+Journal of Environmental Chemical Engineering, 112238.</ul>
   
