@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Fazila Rubab"
   avatar           : "profile.png"
-  bio              : "BS in Software Engineering"
+  bio              : "MS in Software Engineering"
   location         : "Sialkot"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AMpAcmQf5gZ6HGTT7UiOHJRAyYpR7K9cY1rYka08vORULsDC7gprc9wdSmni9CQvt3JQYeo2UdQgswhHa-EJ_g&user=lGURf2cAAAAJ"
@@ -102,6 +102,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
+  orcid            : "https://orcid.org/0009-0004-9040-3459"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
