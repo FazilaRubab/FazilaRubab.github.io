@@ -10,4 +10,6 @@ redirect_from:
 
 About me
 -------------
-I am a software engineering graduate with a passion for machine learning, currently pursuing my Master's degree and actively engaged in research to explore the exciting possibilities of artificial intelligence and data-driven solutions. My academic journey and interest in machine learning drive me to seek innovative ways to bridge the gap between technology and human potential.
+I am a postgraduate in Software Engineering from NUST with a strong and evolving interest in machine learning. My academic background and curiosity drive me to explore how intelligent systems can be used to solve real-world problems and enhance human capability through thoughtful technological integration.
+
+
