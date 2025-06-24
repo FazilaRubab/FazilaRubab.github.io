@@ -13,8 +13,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Software Engineering, Comsats University Islamabad, 2022
-* M.S. in Software Engineering, National University of Sciences and Technology, 2025 (expected)
+* B.S. in Software Engineering, Comsats University Islamabad, Pakistan (2022)
+* M.S. in Software Engineering, National University of Sciences and Technology, Pakistan (2025) 
 
   
 Skills
@@ -41,7 +41,7 @@ Skills
 Certifications
 ======
 * Open Badge by Fun Mooc (Sickit-Learn)
-* Machine Learning Specialization By Stanford
+* Machine Learning Specialization By Stanford (Coursera)
   * Supervised Machine Learning: Regression and Classification By Stanford
   * Advanced Learning Algorithms By Stanford
   * Unsupervised Learning, Recommenders, Reinforcement Learning By Stanford
