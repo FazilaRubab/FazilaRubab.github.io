@@ -5,7 +5,7 @@ permalink: https://doi.org/10.1016/j.seppur.2023.124891
 date: 2023-12-1
 venue: 'Separation and Purification Technology'
 paperurl: 'https://doi.org/10.1016/j.seppur.2023.124891'
-citation: 'Sara Iftikhar, Nallain Zahra, _Fazila Rubab_, Raazia Abrar Sumra, Muhammed Burhan Khan, Ather Abbas, Zeeshan Haider Jaffari. (2023). ""; <i>Separation and Purification Technology</i>. 1(1).'
+citation: 'Sara Iftikhar, Nallain Zahra, **Fazila Rubab**, Raazia Abrar Sumra, Muhammed Burhan Khan, Ather Abbas, Zeeshan Haider Jaffari. (2023). ""; <i>Separation and Purification Technology</i>. 1(1).'
 ---
 
 
